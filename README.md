@@ -1,5 +1,6 @@
 # hello-word
 
-I am Markus, a former cumputer science student from munich and now having a first peak at github.
-I am not sure yet what to exactly do here. I hope by contributing with coding I can improve my coding skills.
-Looking forward to get to know github better!
+I seem to have problems with the merge of the branch into master.
+When I enter the instructed code in my terminal I get the error "not a git repository".
+
+GIT_DISCOVERY_ACROSS_FILESYSTEM not set
