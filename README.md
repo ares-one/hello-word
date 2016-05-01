@@ -1,6 +1,7 @@
 # hello-word
 
-I seem to have problems with the merge of the branch into master.
-When I enter the instructed code in my terminal I get the error "not a git repository".
+Hey ho!
+Got the problem fixed with creating a new branch.
+So everything seems to work smoothly right now :)
 
-GIT_DISCOVERY_ACROSS_FILESYSTEM not set
+Looking forward.
